@@ -1,3 +1,6 @@
+ ----------------------------------------------Try switching your internet connection ON and OFF to test this code.-----------------------------------------------------------
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
